@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, ExpressJs, Flutter**
 
-- 📫 How to reach me **quochuy123dh@gmail.com**
+- 📫 How to reach me **huyvu123dh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
