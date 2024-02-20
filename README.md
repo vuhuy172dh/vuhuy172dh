@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **ReactJs, NodeJs, ExpressJs, Flutter**
 
-- 📫 How to reach me **huyvu123dh@gmail.com**
+- 📫 How to reach me
+- Mail: **huyvu123dh@gmail.com**
+- LinkedIn: **[Vu Quoc Huy](https://www.linkedin.com/in/vu-quoc-huy/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
