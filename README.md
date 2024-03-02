@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vuhuy172dh&label=Profile%20views&color=0e75b6&style=flat" alt="vuhuy172dh" /> </p>
 
-- 🔭 I’m currently studying at **University of Information and Technology in VietNam**
-
-- 🌱 I’m currently learning **ReactJs, NodeJs, ExpressJs, Flutter**
-
 - 📫 How to reach me
 - Mail: **huyvu123dh@gmail.com**
 - LinkedIn: **[Vu Quoc Huy](https://www.linkedin.com/in/vu-quoc-huy/)**
